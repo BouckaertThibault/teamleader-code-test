@@ -13,4 +13,3 @@ Following commands are handy to check the project:
 `npm run start` Starts the development server\
 `npm run test` Runs the unit tests (I only added some tests for the order service -> order.service.ts, the rest are standard boilerplate ones)\
 `npm run e2e` Runs a e2e test in headless (Added one, places an order and checks the confirmation message)
-"# teamleader-code-test" 
