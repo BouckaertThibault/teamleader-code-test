@@ -1,0 +1,23 @@
+:host {
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+
+    tr.mat-mdc-footer-row td {
+      font-weight: bold;
+    }
+
+    .mat-column-action {
+      width: 20px;
+    }
+
+    .add-button {
+      align-self: end;
+    }
+
+    .page-header {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+}
